@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace ResponsiPemrograman4388
 {
-    
     class Karyawan
     {   
         // constructor
@@ -25,6 +24,5 @@ namespace ResponsiPemrograman4388
         public string Nik { get; set; }
         public string Nama { get; set; }
         public int GajiBulanan { get; set; }
-    }
-    
+    }  
 }
